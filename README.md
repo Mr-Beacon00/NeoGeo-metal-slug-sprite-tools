@@ -21,13 +21,13 @@ srom_convert.exe <input_s.bin> <output>
 ```
 ## Example
 ```
-crom_convert.exe <201-c1.bin> <201-c2.bin> <201_output1.bin>
+crom_convert.exe 201-c1.bin 201-c2.bin 201_output1.bin
 ```
 ```
-crom_convert.exe <201-c3.bin> <201-c4.bin> <201_output2.bin>
+crom_convert.exe 201-c3.bin 201-c4.bin 201_output2.bin
 ```
 ```
-srom_convert.exe <201-s1.bin> <201_outputFIX.bin>
+srom_convert.exe 201-s1.bin 201_outputFIX.bin
 ```
 
 # Palette note
