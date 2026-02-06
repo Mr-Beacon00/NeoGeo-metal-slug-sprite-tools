@@ -25,6 +25,7 @@ Metal Slug 2 and later, you can found RGB palette in p file. (maybe color pool s
 
 But Metal Slug 1 is use color pool (is that how it called?)<br />
 and need to rearrange to get palette.
+
 In p file's 0x00102f30 ~ 0x00112f2f range, you can found color pool.
 In p file's 0x00114e00 ~ 0x00124dff range, you can found index file, this file know how color in color pool arranged.
 
