@@ -33,6 +33,7 @@ swap for rearrange, rev for reverse.
 ```
 pal_swap_bits.exe <input_color_pool_file> <output> <swap/rev>
 ```
+
 <br />
 Combine index file and color pool file together (color pool file must swap first)
 ```
