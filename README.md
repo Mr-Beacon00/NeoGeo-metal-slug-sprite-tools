@@ -12,12 +12,12 @@ Also thanks to NeoGeo Development Wiki.<br />
 ## Usage
 Convert C rom (sprite).
 ```
-crom_convert.exe <input_odd_number_c.bin> <input_even_number_c.bin> <output>
+crom_convert.exe <input_odd_number_c.bin> <input_even_number_c.bin> <output_name>
 ```
 
 Convert S rom (FIX layer).
 ```
-srom_convert.exe <input_s.bin> <output>
+srom_convert.exe <input_s.bin> <output_name>
 ```
 ## Example
 ```
